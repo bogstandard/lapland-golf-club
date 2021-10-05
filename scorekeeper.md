@@ -231,7 +231,7 @@ echo -e "+ note: this ignores txt, md and extensionless files!";
 
 # last things!
 dt=$(date '+%d/%m/%Y %H:%M:%S');
-echo -e "\n\n\nUpdated ${dt} Local time\n";
+echo -e "\n\n\nUpdated ${dt} Local time\n```";
 }
 
 #tally;
