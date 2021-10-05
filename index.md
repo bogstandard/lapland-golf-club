@@ -1,4 +1,4 @@
-# LAPLAND GOLF CLUB
+
 
 ```diff
 
