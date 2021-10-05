@@ -236,3 +236,4 @@ echo -e "\n\n\nUpdated ${dt} Local time\n";
 
 #tally;
 tally > README.md
+cp -fr README.md index.md
