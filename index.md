@@ -1,6 +1,3 @@
----
-title: Lapland Golf Club!
----
 ```diff
 
                              ))    ((
