@@ -33,11 +33,17 @@ tally() {
 # use the unique bottom of the scores title to find where to whack em
 scores_indicator="@@        |____/ \___\___/|_|  \___||___/    @@ ";
 # chomp thru the readme to find the score section
-IFS=$'\n' lines=($(<README.template.md));
-for line in ${lines[@]}; do
-  echo -e "${line}";
-  if [ "$line" == "$scores_indicator" ]; then break; fi;
-done;
+# IFS=$'\n' lines=($(<README.template.md));
+# for line in ${lines[@]}; do
+#   echo -e "${line}";
+#   if [ "$line" == "$scores_indicator" ]; then break; fi;
+# done;
+lines=( )
+while IFS= read -r line; do
+   echo -e "${line}";
+   if [ "$line" == "$scores_indicator" ]; then break; fi;
+done <README.template.md
+
 
 
 
