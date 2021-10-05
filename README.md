@@ -100,8 +100,6 @@
 
 
 
-
-
 @@ Scorecard Breakdown: @@
 # Colour indicates effect on running average score!
 
@@ -130,5 +128,5 @@
 
 
 
-Updated 05/10/2021 19:52:35 Local time
-
+Updated 05/10/2021 20:23:44 Local time
+```
