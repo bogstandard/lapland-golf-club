@@ -122,13 +122,13 @@ recurse() {
 
 
 # do the magic
-echo -e "\n\n@@ Scorecard Breakdown: @@";
+echo -e "\n@@ Scorecard Breakdown: @@"; # only one newline here because template will have a trailer
 echo -e "# Colour indicates effect on running average score!"
 for d in */ ; do
   if [[ -d "$d" && ! -L "$d" ]]; then # its a normal dir
     player="$(basename "$d")";
 
-    if [ "$player" == "Keeper" ]&&((PRODUCTION)); then continue; fi;
+    if [ "$player" == "Keeper" ]&&((PRODUCTION)); then continue; fi; # Test account
 
     player_index=$(ord $player);
     scorecard_path="${d}.scorecard";

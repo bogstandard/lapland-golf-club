@@ -117,8 +117,8 @@ Github @ Bogstandard
 @@ Global Breakdown: @@
 + This covers all files, including those which do not
 + appear on scorecards. This is for informational
-+ purposes only and is not regarded in any way as 
-+ counting towards scores or averages. 
++ purposes only and is not regarded in any way as
++ counting towards scores or averages.
 ! ./Keeper/example-day/example-file.test scores [58] ⁽⁵⁸⁾
 ! ./Keeper/scorekeeper.test scores [58] ⁽¹¹⁶⁾
 ! ./lapland-golf-course/Gemfile.lock scores [1306] ⁽¹³⁰⁶⁾
