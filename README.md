@@ -86,7 +86,8 @@
 
 @@ wtf is going on with this readme!?? @@
 ! - it's a Christmas miracle ;) Ho ho ho
-- - please don't edit this file, talk to your team leader or Lapland Golf Club President, [Bogstandard](https://github.com/bogstandard) first
+- - please don't edit this file
+- - contact github.com/bogstandard/lapland-golf-club for more information!
 
 
 
@@ -129,5 +130,5 @@
 
 
 
-Updated 05/10/2021 19:41:38 Local time
+Updated 05/10/2021 19:43:44 Local time
 
