@@ -23,18 +23,6 @@
    ╚═════╝  ╚═════╝ ╚══════╝╚═╝          ╚═════╝╚══════╝ ╚═════╝ ╚═════╝
 
 
-                        /
-           , , , o _   /_  o ____  _,    __  , __ . .
-          (_(_/_<_/_)_/ /_<_/ / <_(_)_  / (_/_(_)(_/_
-                                   /|      /
-                                  |/      '
-                                     __
-                                    /  )/            _/_
- __.    ______  _  __  __  __  ,   /   /_  __  o _   /  ______  __.  _
-(_/|_  / / / <_</_/ (_/ (_/ (_/_  (__// /_/ (_<_/_)_<__/ / / <_(_/|_/_)_
-                             /
-                            '
-
 !- UNDER CONSTRUCTION - CLOSED FOR SUMMER - UNDER CONSTRUCTION
 !- !!
 !- !!
@@ -72,24 +60,26 @@
 ! - gameover for solving at midnight! (unless club ref calls extra time)
 ! - you can revise old games, but only if they were solved that day & only within reason
 
+
 @@ Latecomer rules: @@
 + if you're late to the party, catch up quick as you can, ignore the last rule above till then.
+
 
 @@ Spectator rules: @@
 + if you want to join but don't fancy the competing then set your
 + .scorecard as "# Spectating with a cool drink" (without quotes)
 + then just leave the rest blank unless you change your mind!
 
+
 @@ Today's playing conditions: @@
 ! - heavy snow
 ! - some polar bear sightings
+
 
 @@ wtf is going on with this readme!?? @@
 ! - it's a Christmas miracle ;) Ho ho ho
 - - please don't edit this file
 - - contact github.com/bogstandard/lapland-golf-club for more information!
-
-
 
 
 @@         ____                              @@
