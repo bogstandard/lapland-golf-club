@@ -135,16 +135,23 @@ for d in */ ; do
 
     if [ -f "$scorecard_path" ]; then # .scorecard exists
 
-      echo -e "\n! ${player}";
+      echo -e "\n\n! ${player}";
 
       IFS=$'\n' sc_lines=($(< $scorecard_path));
       line_number=1;
       for l in ${sc_lines[@]}; do
 
         # check for a file comment
-        if [ $line_number == 1 ] && [ "${l::1}" == "#" ];
+        if [ "${l::1}" == "#" ];
         then
           echo $l;
+          continue;
+        fi;
+
+        # check for a github username
+        if [ "${l::1}" == "@" ];
+        then
+          echo "Github" $l;
           continue;
         fi;
 
