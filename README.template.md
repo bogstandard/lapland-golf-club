@@ -61,6 +61,12 @@
 ! - you can revise old games, but only if they were solved that day & only within reason
 
 
+@@ Scorecards: @@
++ Follow the example in Keeper/.scorecard
++ Begin line with # to write a comment
++ Begin line with @ to denote your Github username (only do this once!)
+
+
 @@ Latecomer rules: @@
 + if you're late to the party, catch up quick as you can, ignore the last rule above till then.
 
