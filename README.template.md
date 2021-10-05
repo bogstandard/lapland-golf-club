@@ -48,8 +48,6 @@
 !- CLOSED FOR SUMMER - UNDER  CONSTRUCTION - CLOSED FOR SUMMER
 
 
-
-
 @@         _   _                        ____        _                   @@
 @@        | | | | ___  _   _ ___  ___  |  _ \ _   _| | ___  ___         @@
 @@        | |_| |/ _ \| | | / __|/ _ \ | |_) | | | | |/ _ \/ __|        @@

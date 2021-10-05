@@ -1,4 +1,5 @@
 ```diff
+
                              ))    ((
                             //      \.
                            | \____// |
@@ -20,6 +21,8 @@
 | ██║   ██║██║   ██║██║     ██╔══╝      ██║     ██║     ██║   ██║██╔══██╗
 - ╚██████╔╝╚██████╔╝███████╗██║         ╚██████╗███████╗╚██████╔╝██████╔╝
    ╚═════╝  ╚═════╝ ╚══════╝╚═╝          ╚═════╝╚══════╝ ╚═════╝ ╚═════╝
+
+
                         /
            , , , o _   /_  o ____  _,    __  , __ . .
           (_(_/_<_/_)_/ /_<_/ / <_(_)_  / (_/_(_)(_/_
@@ -31,6 +34,7 @@
 (_/|_  / / / <_</_/ (_/ (_/ (_/_  (__// /_/ (_<_/_)_<__/ / / <_(_/|_/_)_
                              /
                             '
+
 !- UNDER CONSTRUCTION - CLOSED FOR SUMMER - UNDER CONSTRUCTION
 !- !!
 !- !!
@@ -42,11 +46,15 @@
 !- !!
 !- !!
 !- CLOSED FOR SUMMER - UNDER  CONSTRUCTION - CLOSED FOR SUMMER
+
+
 @@         _   _                        ____        _                   @@
 @@        | | | | ___  _   _ ___  ___  |  _ \ _   _| | ___  ___         @@
 @@        | |_| |/ _ \| | | / __|/ _ \ | |_) | | | | |/ _ \/ __|        @@
 @@        |  _  | (_) | |_| \__ \  __/ |  _ <| |_| | |  __/\__ \        @@
 @@        |_| |_|\___/ \__,_|___/\___| |_| \_\__,_|_|\___||___/         @@
+
+
 @@ Out on the field: @@
 + these rules help the score keeping elves, try to stick to them!
 ! - input unaltered from how AoC gives it
@@ -63,23 +71,34 @@
 ! - (Optional) if parts of a challenge are really similar, only latest will be kept
 ! - gameover for solving at midnight! (unless club ref calls extra time)
 ! - you can revise old games, but only if they were solved that day & only within reason
+
 @@ Latecomer rules: @@
 + if you're late to the party, catch up quick as you can, ignore the last rule above till then.
+
 @@ Spectator rules: @@
 + if you want to join but don't fancy the competing then set your
 + .scorecard as "# Spectating with a cool drink" (without quotes)
 + then just leave the rest blank unless you change your mind!
+
 @@ Today's playing conditions: @@
 ! - heavy snow
 ! - some polar bear sightings
+
 @@ wtf is going on with this readme!?? @@
 ! - it's a Christmas miracle ;) Ho ho ho
 - - please don't edit this file, talk to your team leader or Lapland Golf Club President, [Bogstandard](https://github.com/bogstandard) first
+
+
+
+
 @@         ____                              @@
 @@        / ___|  ___ ___  _ __ ___  ___     @@
 @@        \___ \ / __/ _ \| '__/ _ \/ __|    @@
 @@         ___) | (_| (_) | | |  __/\__ \    @@
 @@        |____/ \___\___/|_|  \___||___/    @@
+
+
+
 
 
 @@ Scorecard Breakdown: @@
@@ -110,5 +129,5 @@
 
 
 
-Updated 05/10/2021 19:11:21 Local time
+Updated 05/10/2021 19:41:38 Local time
 
