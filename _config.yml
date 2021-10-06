@@ -1,5 +1,6 @@
 remote_theme: bogstandard/lapland-golf-course
-title: Lapland Golf Club
+title: 'Lapland Golf Club'
+description: '~ Closed for the Summer ~'
 players:
   - username: ''
     name: 'Grounds Keeper'
