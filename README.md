@@ -1,6 +1,6 @@
 <img src="https://bogstandard.github.io/lapland-golf-club/assets/images/logo.svg" width="300" height="300" align="right">
 
-# Lapland Golf Club
+# [Lapland Golf Club](https://bogstandard.github.io/lapland-golf-club/)
 
 [Here](https://bogstandard.github.io/lapland-golf-club/) we'll display your golfing scores. Contact your local club president if you'd like to join or attach your portrait. These scores will update automatically, so long as players keep their `.scorecard` file up to date!
 
@@ -37,4 +37,4 @@ The repository the player chooses to play from now doesn't matter, they can play
 
 The club operates using a custom Jekyll template, so it's reusable year to year. Checkout our `_config.yml` file for more insight.
 
-This repo is an example of a **lapland golf course instance**.
+This repo is an example of a **[Lapland Golf Course](https://github.com/bogstandard/lapland-golf-course) instance**.
