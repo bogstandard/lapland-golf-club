@@ -25,6 +25,8 @@ Then provide your local club president with a link to your `.scorecard` in your 
 
 Please speak with the [groundskeeper](https://github.com/bogstandard/) about this or copy this repo! Take a look at the `_config.yml` file and you should figure it out if you've got smarts. Hint; Use Github Pages with our custom theme.
 
+![](https://bogstandard.github.io/lapland-golf-club/assets/images/forest.svg)
+
 ## What happened to the old Readme format of scores?
 
 [Lapland Golf Club](https://bogstandard.github.io/lapland-golf-club/) has had a renovation & the readme format has been retired. While incredibly fun to build, the Bash based method of collating scores was unpleasant to operate; requiring a manual script run, commit & push each score update. It also required all players to stick within the same repository, which not everyone enjoys. You can still find the old Bash script [here](https://github.com/bogstandard/lapland-golf-club/blob/f39f6693e53bfd54307a1768f1ce94a868c69d80/scorekeeper.md) if you want something amusing to read (it disguised itself as markdown to avoid language detection!).
@@ -38,3 +40,4 @@ The repository the player chooses to play from now doesn't matter, they can play
 The club operates using a custom Jekyll template, so it's reusable year to year. Checkout our `_config.yml` file for more insight.
 
 This repo is an example of a **[Lapland Golf Course](https://github.com/bogstandard/lapland-golf-course) instance**.
+
