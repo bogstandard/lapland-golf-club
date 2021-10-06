@@ -1,22 +1,6 @@
 <img src="https://bogstandard.github.io/lapland-golf-club/assets/images/logo.svg" width="300" height="300" align="right">
 
-
-```diff
-- ██╗      █████╗ ██████╗ ██╗      █████╗ ███╗   ██╗██████╗
-| ██║     ██╔══██╗██╔══██╗██║     ██╔══██╗████╗  ██║██╔══██╗
-| ██║     ███████║██████╔╝██║     ███████║██╔██╗ ██║██║  ██║
-| ██║     ██╔══██║██╔═══╝ ██║     ██╔══██║██║╚██╗██║██║  ██║
-- ███████╗██║  ██║██║     ███████╗██║  ██║██║ ╚████║██████╔╝
-  ╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝
--  ██████╗  ██████╗ ██╗     ███████╗     ██████╗██╗     ██╗   ██╗██████╗
-| ██╔════╝ ██╔═══██╗██║     ██╔════╝    ██╔════╝██║     ██║   ██║██╔══██╗
-| ██║  ███╗██║   ██║██║     █████╗      ██║     ██║     ██║   ██║██████╔╝
-| ██║   ██║██║   ██║██║     ██╔══╝      ██║     ██║     ██║   ██║██╔══██╗
-- ╚██████╔╝╚██████╔╝███████╗██║         ╚██████╗███████╗╚██████╔╝██████╔╝
-   ╚═════╝  ╚═════╝ ╚══════╝╚═╝          ╚═════╝╚══════╝ ╚═════╝ ╚═════╝
-```
-
-## Welcome to the club
+# Lapland Golf Club
 
 [Here](https://bogstandard.github.io/lapland-golf-club/) we'll display your golfing scores. Contact your local club president if you'd like to join or attach your portrait. These scores will update automatically, so long as players keep their `.scorecard` file up to date!
 
