@@ -2,7 +2,7 @@
 
 Here we'll display your golfing scores. Contact your local club president if you'd like to join or attach your portrait. These should scores update automatically, so long as the player keeps their `.scorecard` file up to date!
 
-Click on a row name to display the player's solution!
+Coming soon: Click on a row name to display the player's solution!
 
 ### How to play
 
