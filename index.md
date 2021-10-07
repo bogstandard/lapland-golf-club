@@ -1,6 +1,8 @@
 ## Welcome to the club
 
-Here we'll display your golfing scores. Contact your local club president if you'd like to join or attach your portrait. These scores will update automatically, so long as players keep their `.scorecard` file up to date!
+Here we'll display your golfing scores. 
+
+Contact your local club president if you'd like to join or attach your portrait. These scores will update automatically, so long as you & other players keep your `.scorecard` file up to date!
 
 Click on a row name to display the player's solution!
 
