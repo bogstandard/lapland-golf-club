@@ -1,8 +1,10 @@
-<img src="https://bogstandard.github.io/lapland-golf-club/assets/images/logo.svg" width="300" height="300" align="right">
+<img src="https://bogstandard.github.io/lapland-golf-club/assets/images/logo.svg" width="180" height="180" align="right">
 
 # [Lapland Golf Club](https://bogstandard.github.io/lapland-golf-club/)
 
-[Here](https://bogstandard.github.io/lapland-golf-club/) we'll display your golfing scores. Contact your local club president if you'd like to join or attach your portrait. These scores will update automatically, so long as players keep their `.scorecard` file up to date!
+[Here](https://bogstandard.github.io/lapland-golf-club/) we'll display your golfing scores. 
+
+Contact your local club president if you'd like to join or attach your portrait. These scores will update automatically, so long as you & other players keep your `.scorecard` file up to date!
 
 Click on a row name to display the player's solution!
 
