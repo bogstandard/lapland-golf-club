@@ -24,4 +24,3 @@ Then provide your local club president with a link to your `.scorecard` in your 
 ### How do I establish my own club?
 
 Read the [Club readme](https://github.com/bogstandard/lapland-golf-club) for more information.
-
