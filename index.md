@@ -21,6 +21,4 @@ Then provide your local club president with a link to your `.scorecard` in your 
 
 ### How do I establish my own club?
 
-Please speak with the [groundskeeper](https://github.com/bogstandard/) about this or copy this repo! Take a look at the `_config.yml` file and you should figure it out if you've got smarts. Hint; Use Github Pages with our custom theme.
-
-Checkout the [Club readme](https://github.com/bogstandard/lapland-golf-club) for more information.
+Read the [Club readme](https://github.com/bogstandard/lapland-golf-club) for more information.
