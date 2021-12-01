@@ -1,24 +1,8 @@
 remote_theme: bogstandard/lapland-golf-course
 title: 'Lapland Golf Club'
-description: '~ Closed for the Summer, opening late November ~'
+description: '~ Grand Opening! Welcome Golfers! ~'
 players:
-  - username: ''
-    name: 'Grounds Keeper'
-    index: 0
-    url: 'https://github.com/bogstandard/lapland-golf-club/blob/main/Keeper/.scorecard'
-  - username: ''
-    name: 'Ben'
-    index: 1
-    url: 'https://github.com/Gerome/AdventOfCode2020/blob/main/Ben/.scorecard'
-  - username: 'gerome'
-    name: 'Gerome'
-    index: 2
-    url: 'https://github.com/Gerome/AdventOfCode2020/blob/main/Gerome/.scorecard'
-  - username: ''
-    name: 'Joe'
-    index: 3
-    url: 'https://github.com/Gerome/AdventOfCode2020/blob/main/Joe/.scorecard'
   - username: 'bogstandard'
     name: 'Eric'
-    index: 4
-    url: 'https://github.com/Gerome/AdventOfCode2020/blob/main/Eric/.scorecard'
+    index: 0
+    url: 'https://github.com/bogstandard/adventofcode2021/blob/main/.scorecard'
