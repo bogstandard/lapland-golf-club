@@ -10,4 +10,7 @@ players:
     name: 'Ben'
     index: 1
     url: 'https://github.com/Jabenjy/AdventOfCode2021/blob/main/.scorecard'  
-    
+  - username: 'gerome'
+    name: 'Gerome'
+    index: 2
+    url: 'https://github.com/Gerome/Advent-of-code-2021/blob/main/.scorecard'  
