@@ -6,7 +6,7 @@ players:
     name: 'Eric'
     index: 0
     url: 'https://github.com/bogstandard/adventofcode2021/blob/main/.scorecard'
-  - username: 'Jabenjy'
+  - username: ''
     name: 'Ben'
     index: 1
     url: 'https://github.com/Jabenjy/AdventOfCode2021/blob/main/.scorecard'  
