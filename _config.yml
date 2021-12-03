@@ -14,3 +14,7 @@ players:
     name: 'Gerome'
     index: 2
     url: 'https://github.com/Gerome/Advent-of-code-2021/blob/main/.scorecard'  
+  - username: 'Lewis-Allen'
+    name: 'Lewis'
+    index: 3
+    url: 'https://github.com/Lewis-Allen/AdventOfCode/blob/master/2021/golf/.scorecard'  
