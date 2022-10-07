@@ -1,6 +1,6 @@
 ## Welcome to the club
 
-Here we'll display your golf scores. 
+Here we'll display your golf scores.
 
 Contact your local club president if you'd like to join or attach your portrait. These scores will update automatically, so long as you & other players keep your `.scorecard` file up to date!
 
@@ -25,4 +25,4 @@ Then provide your local club president with a link to your `.scorecard` in your 
 
 Read the [Club readme](https://github.com/bogstandard/lapland-golf-club) for more information.
 
-*Last rebuilt Wed 8 Dec 21:01*
+_Last rebuilt Fri 7 Oct 2022 17:00_
