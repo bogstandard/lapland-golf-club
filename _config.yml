@@ -1,20 +1,20 @@
 remote_theme: bogstandard/lapland-golf-course
 title: 'Lapland Golf Club'
-description: '~ Closed until Advent 2022 ~'
+description: '~ Welcome back Golfers? ~'
 players:
   - username: 'bogstandard'
     name: 'Eric'
     index: 0
-    url: 'https://github.com/bogstandard/adventofcode2021/blob/main/.scorecard'
-  - username: ''
-    name: 'Ben'
-    index: 1
-    url: 'https://github.com/Jabenjy/AdventOfCode2021/blob/main/.scorecard'  
-  - username: 'gerome'
-    name: 'Gerome'
-    index: 2
-    url: 'https://github.com/Gerome/Advent-of-code-2021/blob/main/.scorecard'  
-  - username: 'Lewis-Allen'
-    name: 'Lewis'
-    index: 3
-    url: 'https://github.com/Lewis-Allen/AdventOfCode/blob/master/2021/golf/.scorecard'  
+    url: 'https://github.com/bogstandard/adventofcode2022/blob/main/.scorecard'
+#  - username: ''
+#    name: 'Ben'
+#    index: 1
+#    url: 'https://github.com/Jabenjy/AdventOfCode2021/blob/main/.scorecard'  
+#  - username: 'gerome'
+#    name: 'Gerome'
+#    index: 2
+#    url: 'https://github.com/Gerome/Advent-of-code-2021/blob/main/.scorecard'  
+#  - username: 'Lewis-Allen'
+#    name: 'Lewis'
+#    index: 3
+#    url: 'https://github.com/Lewis-Allen/AdventOfCode/blob/master/2021/golf/.scorecard'  
