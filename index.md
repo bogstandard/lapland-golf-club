@@ -25,4 +25,4 @@ Then provide your local club president with a link to your `.scorecard` in your 
 
 Read the [Club readme](https://github.com/bogstandard/lapland-golf-club) for more information.
 
-_Last rebuilt Fri 7 Oct 2022 17:00_
+_Last rebuilt Thur 1 Dec 2022 12:31_
